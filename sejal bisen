@@ -1,0 +1,27 @@
+# Meme Generator 🎨😂
+
+This is a simple Meme Generator web application that allows users to view and generate random memes with a click.
+
+## 🚀 Features
+
+- 🎲 Random meme image generator
+- 🔁 Get a new meme on button click
+- 📱 Fully responsive for mobile and desktop
+- 🌙 Light and dark mode (if added)
+
+## 🛠 Built With
+
+- HTML
+- CSS
+- JavaScript (Vanilla JS)
+
+## 📸 Demo
+
+👉 [Live Demo Link (if deployed)](https://your-live-demo-link.netlify.app)
+
+## 🧠 How It Works
+
+- Fetches random meme images from a public API
+- Displays the image and updates on each button click
+
+## 📁 Project Structure
